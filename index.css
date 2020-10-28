@@ -1,5 +1,5 @@
 body{
-	background-color: rgb(247, 128, 255);
+	background-color: rgb(188, 159, 207);
 }
 
 article{
@@ -8,19 +8,16 @@ article{
 
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Source+Sans+Pro&display=swap');
 
-p{
+section{
 	font-family: Lora, serif;
 }
 
 h1 {
-	font-size: 4.8vh;
-	line-height: 7.2vh;
 	color: yellow;
+	font-family: Source Sans Pro, sans-serif;
 }
 
-h2 {/*次標題會有italic的default設定*/
-	font-size: 3.6vh;
-	line-height: 5.4vh;
-	font-style: normal;/*也可以用initial*/
+h2 {
 	color: orange;
+	font-family: Lora, serif;
 }
