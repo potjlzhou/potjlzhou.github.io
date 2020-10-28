@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Source+Sans+Pro&display=swap');
 
 body{
-	background-color: rgb(188, 159, 207);
+	background-color: #a8dadc;
 }
 
 section{
@@ -9,15 +9,15 @@ section{
 }
 
 section{
-	font-family: Noto Serif TC, serif;
+	font-family: Noto Serif TC;
 }
 
 h1 {
-	color: yellow;
+	color: #1d3557;
 	font-family: Source Sans Pro, sans-serif;
 }
 
 h2 {
-	color: orange;
-	font-family: Noto Serif TC, serif;
+	color: #1d3557;
+	font-family: Noto Serif TC;
 }
