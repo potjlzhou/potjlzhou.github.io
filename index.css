@@ -1,0 +1,26 @@
+body{
+	background-color: rgb(247, 128, 255);
+}
+
+article{
+	background-color: #e89517;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Source+Sans+Pro&display=swap');
+
+p{
+	font-family: Lora, serif;
+}
+
+h1 {
+	font-size: 4.8vh;
+	line-height: 7.2vh;
+	color: yellow;
+}
+
+h2 {/*次標題會有italic的default設定*/
+	font-size: 3.6vh;
+	line-height: 5.4vh;
+	font-style: normal;/*也可以用initial*/
+	color: orange;
+}
