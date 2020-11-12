@@ -27,14 +27,13 @@ div#container{
 nav{
 	position: fixed;
 	right: 75%;
-	padding: 20px 20px;
 	left: 0;
 	background-color: gray;
 	color: white;
 	font-family: Noto Serif TC, serif;
-	font-size: 35px;
+	font-size: 4.8vh;
 	height: 100vh;
-	line-height: 50px;
+	text-align: center;
 }
 
 article{
