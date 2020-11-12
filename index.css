@@ -33,16 +33,24 @@ div#container{
 	font-family: sans-serif;
 }
 
+div{
+	padding: 1vh;
+}
+
+nav > div:hover{
+	background-color:indianred
+}
+
 nav{
 	position: fixed;
 	height: 100%;
 	width: 25%;
-	padding: 2.4vh;
+	padding-top: 2.4vh;
 	left: 0;
 	background-color: gray;
 	color: white;
 	font-family: Noto Serif TC, serif;
-	font-size: 35px;
+	font-size: 3vh;
 	text-align: center;
 }
 
