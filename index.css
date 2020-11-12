@@ -4,8 +4,7 @@
 	box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Noto+Serif+TC&family=Noto+Serif:ital@1&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Goldman:wght@700&family=Lora&family=Noto+Serif&display=swap');
 
 html{
 	width: 100%
