@@ -37,7 +37,7 @@ div{
 	padding: 1vh;
 }
 
-nav > div:not(:first-child) :hover{
+nav > div:hover{
 	background-color:indianred
 }
 
@@ -48,13 +48,13 @@ nav + div {
 nav{
 	position: fixed;
 	height: 100%;
-	width: 25%;
+	width: 20%;
 	padding-top: 2.4vh;
 	left: 0;
 	background-color: gray;
 	color: white;
 	font-family: Noto Serif TC, serif;
-	font-size: 3vh;
+	font-size: 3.5vh;
 	text-align: center;
 }
 
@@ -70,7 +70,7 @@ article{
 
 h1 {
 	padding: 2.4vh;
-	color: #8b877a;
+	color: #1b4965;
 	font-family: Source Sans Pro, sans-serif;
 	font-size: 4.5vh;
 	margin-left: 10%;
