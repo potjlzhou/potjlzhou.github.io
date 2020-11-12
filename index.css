@@ -41,6 +41,10 @@ nav > div:not(:first-child) :hover{
 	background-color:indianred
 }
 
+nav + div {
+	font-family: Goldman, cursive;
+}
+
 nav{
 	position: fixed;
 	height: 100%;
