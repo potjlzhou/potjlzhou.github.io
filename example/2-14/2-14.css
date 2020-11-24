@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+html {
+	height: 100%;
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+body{
+	width: 100px;
+	height: 100%;
+}
+
+div {
+	width: 100px;
+	height: 100px;
+}
+
+/*
+div:first-child /*上一層(body)的第一個小孩{
+	background-color: orange;
+}
+
+div:last-child {
+	background-color: green;
+}
+
+div:nth-of-type(3) /*針對div就算中間有別的也照原樣算{
+	background-color: brown;
+}
+
+div:not(:first-child) {
+	background-color: orange;
+}
+*/
+
+article > div:not(:first-child) {
+	background-color: blue;
+}
