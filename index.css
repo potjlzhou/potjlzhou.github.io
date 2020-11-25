@@ -79,20 +79,24 @@ h1 {
 section.s2{
 	background-color: #7979ad;
 	width: 70vw;
-	padding: 6vh;}
+	padding: 6vh;
+	color: white;
+}
 
 h2 {
 	padding: 3.6vh;
 	color: #2e3830;
-	font-family: Source Sans Pro, sans-serif;
+	font-family: Noto Serif TC, serif;
+	margin-left: -3.6vh;
+	font-size: 5vh;
 }
-
-
 
 h3 {
 	padding: 3.6vh;
 	color: #2e3830;
 	font-family: Noto Serif TC, serif;
+	margin-left: -3.6vh;
+	font-size: 5vh;
 }
 
 section.s3{
@@ -100,16 +104,20 @@ section.s3{
 	background-color: #94786c;
 	width: 70vw;
 	text-align: right;
+	color: white;
 }
 
 h4 {
 	padding: 3.6vh;
 	color: #2e3830;
 	font-family: Noto Serif TC, serif;
+	margin-left: -3.6vh;
+	font-size: 5vh;
 }
 
 section.s4 {
 	padding: 6vh;
 	background-color: #7e9c7e;
 	width: 70vw;
+	color: white;
 }
