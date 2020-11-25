@@ -48,13 +48,14 @@ nav{
 	padding-top: 2.4vh;
 	left: 0;
 	background-color: gray;
-	color: white;
 	font-family: Noto Serif TC, serif;
 	font-size: 4.5vh;
 	text-align: center;
 }
 
 div.name{
+	position: fixed;
+	right: 1vh;
 	font-size: 6vh;
 	font-size: 'Source Sans Pro', sans-serif;
 }
@@ -73,7 +74,8 @@ h1 {
 	color: #49494b;
 	font-family: Pemanent Marker,;
 	font-size: 7vh;
-	margin-left: 5px;
+	margin-left: -7px;
+	margin-top: -7px;
 }
 
 section.s2{
