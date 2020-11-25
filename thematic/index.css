@@ -13,11 +13,6 @@ html{
 	overflow-y: auto;
 }
 
-a{
-	color: #f7f796;
-	margin: 0 20px;
-}
-
 body{
 	width: 100%;
 	height: 100%;
@@ -50,8 +45,13 @@ nav{
 	background-color: #1f2048;
 	color: white;
 	font-family: Noto Serif TC, serif;
-	font-size: 4.5vh;
 	text-align: center;
+}
+
+a{
+	color: #f7f796;
+	margin: 0 1vw;
+	font-size: 3.6vh;
 }
 
 div.name{
@@ -63,7 +63,7 @@ article{
 	height: 100vh;
 	width: 75%;
 	margin-left: 5px;
-	margin-top: -18px;
+	margin-top: -3vh;
 	padding: 15px 15px;
 	font-family: Lora, serif;
 	font-family: Noto Serif TC, serif;
@@ -75,8 +75,8 @@ h1 {
 	color: #07505f;
 	font-family: Pemanent Marker;
 	font-size: 6vh;
-	margin-top: -9vh;
-	margin-left: -10px;
+	margin-top: -5vh;
+	margin-left: -2.4vh;
 }
 
 h2 {
@@ -84,7 +84,7 @@ h2 {
 	color: #a50349;
 	font-family: Pemanent Marker;
 	font-size: 3.6vh;
-	margin-left: -15px;
+	margin-left: -2.4vh;
 }
 
 h3 {
@@ -92,7 +92,7 @@ h3 {
 	color: #a50349;
 	font-family: Pemanent Marker;
 	font-size: 3.6vh;
-	margin-left: -15px;
+	margin-left: -2.4vh;
 }
 
 h4 {
@@ -100,5 +100,5 @@ h4 {
 	color: #a50349;
 	font-family: Pemanent Marker;
 	font-size: 3.6vh;
-	margin-left: -15px;
+	margin-left: -2.4vh;
 }
