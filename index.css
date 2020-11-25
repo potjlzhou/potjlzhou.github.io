@@ -62,7 +62,6 @@ div.name{
 article{
 	height: 100vh;
 	width: 75%;
-	margin-left: 5px;
 	padding: 15px 15px;
 	font-family: Lora, serif;
 	font-family: Noto Serif TC, serif;
@@ -77,14 +76,40 @@ h1 {
 	margin-left: 5px;
 }
 
+section.s2{
+	background-color: #7979ad;
+	width: 70vw;
+	padding: 6vh;}
+
 h2 {
 	padding: 3.6vh;
 	color: #2e3830;
 	font-family: Source Sans Pro, sans-serif;
 }
 
+
+
 h3 {
 	padding: 3.6vh;
 	color: #2e3830;
 	font-family: Noto Serif TC, serif;
+}
+
+section.s3{
+	padding: 6vh;
+	background-color: #94786c;
+	width: 70vw;
+	text-align: right;
+}
+
+h4 {
+	padding: 3.6vh;
+	color: #2e3830;
+	font-family: Noto Serif TC, serif;
+}
+
+section.s4 {
+	padding: 6vh;
+	background-color: #7e9c7e;
+	width: 70vw;
 }
