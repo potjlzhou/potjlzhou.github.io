@@ -47,7 +47,7 @@ nav{
 	padding-top: 2.4vh;
 	left: 0;
 	background-color: gray;
-	font-family: 'Merriweather', sans-serif;
+	font-family: 'Merriweather', serif;
 	font-size: 4.5vh;
 	text-align: center;
 }
@@ -64,7 +64,6 @@ article{
 	width: 75%;
 	padding: 15px 15px;
 	font-family: Lora, serif;
-	font-family: 'Sansita SwashedN', cursive;
 	color: #1f7a8c;
 }
 
@@ -87,7 +86,7 @@ section.s2{
 h2 {
 	padding: 3.6vh;
 	color: #2e3830;
-	font-family: Noto Serif TC, serif;
+	font-family: 'Nanum Gothic', sans-serif;
 	margin-left: -3.6vh;
 	font-size: 5vh;
 }
@@ -95,7 +94,7 @@ h2 {
 h3 {
 	padding: 3.6vh;
 	color: #2e3830;
-	font-family: Noto Serif TC, serif;
+	font-family: 'Nanum Gothic', sans-serif;
 	margin-left: -3.6vh;
 	font-size: 5vh;
 }
@@ -111,7 +110,7 @@ section.s3{
 h4 {
 	padding: 3.6vh;
 	color: #2e3830;
-	font-family: Noto Serif TC, serif;
+	font-family: 'Nanum Gothic', sans-serif;
 	margin-left: -3.6vh;
 	font-size: 5vh;
 }
