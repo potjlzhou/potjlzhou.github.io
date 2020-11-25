@@ -72,31 +72,32 @@ article{
 h1 {
 	padding: 2.4vh;
 	color: #49494b;
-	font-family: Pemanent Marker,;
-	font-size: 7vh;
+	font-family: Pemanent Marker;
+	font-size: 6vh;
+	margin-top: -2vh;
 	margin-left: -10px;
 }
 
 h2 {
 	padding: 3.6vh;
 	color: #2e3830;
-	font-family: Source Sans Pro, sans-serif;
-	font-size: 5.5vh;
+	font-family: Pemanent Marker;
+	font-size: 3.6vh;
 	margin-left: -15px;
 }
 
 h3 {
 	padding: 3.6vh;
 	color: #2e3830;
-	font-family: Noto Serif TC, serif;
-	font-size: 5.5vh;
+	font-family: Pemanent Marker;
+	font-size: 3.6vh;
 	margin-left: -15px;
 }
 
 h4 {
 	padding: 3.6vh;
 	color: #2e3830;
-	font-family: Noto Serif TC, serif;
-	font-size: 5.5vh;
+	font-family: Pemanent Marker;
+	font-size: 3.6vh;
 	margin-left: -15px;
 }
