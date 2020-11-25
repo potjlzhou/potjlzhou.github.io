@@ -4,8 +4,7 @@
 	box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Goldman:wght@700&family=Lora&family=Noto+Serif&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Nanum+Gothic&family=Nerko+One&family=Sansita+Swashed&family=Texturina&display=swap');
 html{
 	width: 100%
 	height: 100%
@@ -56,7 +55,7 @@ nav{
 
 div.name{
 	font-size: 6vh;
-	font-size: 'Source Sans Pro', sans-serif;
+	font-size: 'Texturina', serif;
 }
 
 article{
@@ -72,7 +71,7 @@ article{
 h1 {
 	padding: 2.4vh;
 	color: #07505f;
-	font-family: Pemanent Marker;
+	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 6vh;
 	margin-top: -9vh;
 	margin-left: -10px;
@@ -81,7 +80,7 @@ h1 {
 h2 {
 	padding: 3.6vh;
 	color: #a50349;
-	font-family: Pemanent Marker;
+	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 3.6vh;
 	margin-left: -15px;
 }
@@ -89,7 +88,7 @@ h2 {
 h3 {
 	padding: 3.6vh;
 	color: #a50349;
-	font-family: Pemanent Marker;
+	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 3.6vh;
 	margin-left: -15px;
 }
@@ -97,7 +96,7 @@ h3 {
 h4 {
 	padding: 3.6vh;
 	color: #a50349;
-	font-family: Pemanent Marker;
+	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 3.6vh;
 	margin-left: -15px;
 }
