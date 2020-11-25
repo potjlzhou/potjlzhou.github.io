@@ -14,7 +14,8 @@ html{
 }
 
 a{
-	color: #debfa7
+	color: #debfa7;
+	margin: 0 20px;
 }
 
 body{
@@ -28,7 +29,6 @@ div#container{
 	height: 100%;
 	width: 100%;
 	margin-top: 20%;
-	padding: 5px 5px;
 	font-size: 2.4vh;
 	font-family: sans-serif;
 }
@@ -43,7 +43,7 @@ nav > div:not(:first-child):hover{
 
 nav{
 	position: fixed;
-	height: 20%;
+	height: 25%;
 	width: 100%;
 	padding-top: 2.4vh;
 	top: 0;
@@ -74,7 +74,7 @@ h1 {
 	color: #49494b;
 	font-family: Pemanent Marker,;
 	font-size: 7vh;
-	margin-left: 5px;
+	margin-left: -10px;
 }
 
 h2 {
