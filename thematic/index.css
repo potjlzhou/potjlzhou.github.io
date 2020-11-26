@@ -5,6 +5,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Nanum+Gothic&family=Nerko+One&family=Sansita+Swashed&family=Texturina&display=swap');
+
 html{
 	width: 100%
 	height: 100%
@@ -27,42 +28,38 @@ body{
 div#container{
 	height: 100%;
 	width: 100%;
-	margin-top: 20%;
+	margin-top: 25%;
 	font-size: 2.4vh;
 	font-family: sans-serif;
 }
 
-div{
-	padding: 1vh;
-}
-
-nav > div:not(:first-child):hover{
-	background-color:indianred
+nav > a:hover{
+	color:#ffc5aa
 }
 
 nav{
 	position: fixed;
 	height: 25%;
 	width: 100%;
-	padding-top: 2.4vh;
+	padding-top: 3.6vh;
 	top: 0;
 	background-color: #1f2048;
-	color: white;
 	font-family: Noto Serif TC, serif;
-	font-size: 4.5vh;
+	font-size: 4vh;
 	text-align: center;
 }
 
 div.name{
+	color: white;
 	font-size: 6vh;
 	font-size: 'Texturina', serif;
 }
 
 article{
 	height: 100vh;
-	width: 75%;
-	margin-left: 0.5vh;
-	padding: 15px 15px;
+	width: 100%;
+	margin-left: 2.4vh;
+	padding: 1vh 1vh;
 	font-family: Lora, serif;
 	font-family: Noto Serif TC, serif;
 	color: #776a5d;
@@ -73,8 +70,8 @@ h1 {
 	color: #07505f;
 	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 6vh;
-	margin-top: -9vh;
-	margin-left: -10px;
+	margin-top: -19vh;
+	margin-left: -0.5vh;
 }
 
 h2 {
@@ -82,7 +79,7 @@ h2 {
 	color: #a50349;
 	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 3.6vh;
-	margin-left: -15px;
+	margin-left: -2vh;
 }
 
 h3 {
@@ -90,7 +87,7 @@ h3 {
 	color: #a50349;
 	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 3.6vh;
-	margin-left: -15px;
+	margin-left: -2vh;
 }
 
 h4 {
@@ -98,9 +95,9 @@ h4 {
 	color: #a50349;
 	font-family: 'Nanum Gothic', sans-serif;
 	font-size: 3.6vh;
-	margin-left: -15px;
+	margin-left: -2vh;
 }
 
 p {
-	margin-left: 1vh;
+	margin-left: 2vh;
 }
