@@ -30,7 +30,7 @@ nav > a:hover{
 }
 
 nav{
-	position: fixed;
+	position: absolute;
 	height: 25%;
 	width: 100%;
 	padding-top: 3.6vh;
