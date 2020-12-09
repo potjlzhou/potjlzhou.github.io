@@ -25,14 +25,6 @@ body{
 	font: 2.4vh/3.6vh;
 }
 
-div#container{
-	height: 100%;
-	width: 100%;
-	margin-top: 25%;
-	font-size: 2.4vh;
-	font-family: sans-serif;
-}
-
 nav > a:hover{
 	color:#ffc5aa
 }
@@ -43,16 +35,24 @@ nav{
 	width: 100%;
 	padding-top: 3.6vh;
 	top: 0;
+	font-family: 'Playfair Display SC', serif;
 	background-color: #1f2048;
-	font-family: Noto Serif TC, serif;
 	font-size: 4vh;
 	text-align: center;
+}
+
+div#container{
+	height: 100%;
+	width: 100%;
+	margin-top: 25%;
+	font-size: 2.4vh;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 div.name{
 	color: white;
 	font-size: 6vh;
-	font-size: 'Texturina', serif;
+	font-family: 'Playfair Display SC', serif;
 }
 
 article{
@@ -61,14 +61,14 @@ article{
 	margin-left: 2.4vh;
 	padding: 1vh 1vh;
 	font-family: Lora, serif;
-	font-family: Noto Serif TC, serif;
+	font-family: 'Crimson Text', serif;
 	color: #776a5d;
 }
 
 h1 {
 	padding: 2.4vh;
 	color: #07505f;
-	font-family: 'Nanum Gothic', sans-serif;
+	font-family: 'Andika New Basic', sans-serif;
 	font-size: 6vh;
 	margin-top: -25vh;
 	margin-left: -0.5vh;
@@ -77,7 +77,7 @@ h1 {
 h2 {
 	padding: 3.6vh;
 	color: #a50349;
-	font-family: 'Nanum Gothic', sans-serif;
+	font-family: 'Andika New Basic', sans-serif;
 	font-size: 3.6vh;
 	margin-left: -2vh;
 }
@@ -85,7 +85,7 @@ h2 {
 h3 {
 	padding: 3.6vh;
 	color: #a50349;
-	font-family: 'Nanum Gothic', sans-serif;
+	font-family: 'Andika New Basic', sans-serif;
 	font-size: 3.6vh;
 	margin-left: -2vh;
 }
