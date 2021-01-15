@@ -80,6 +80,19 @@ section {
 	padding: 10px 18px 20px 10px;
 }
 
+section.home > img {
+	position:relative;
+	width: 200%;
+	margin-top: -7vh;
+	margin-left: -10vh;
+}
+
+section.home {
+	font-family: 'Texturina', serif;
+	color: white;
+}
+
+
 p > img {
 	width: 30%;
 }
@@ -118,5 +131,6 @@ section:nth-child(2) > img.special {
 }
 
 h3 {
+	position: fixed;
 	margin: 10px 0 0 0;
 }
