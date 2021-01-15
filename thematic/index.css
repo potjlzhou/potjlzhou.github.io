@@ -49,7 +49,6 @@ div#container{
 	font-size: 2.4vh;
 	font-family: 'Josefin Sans', sans-serif;
 	font-family: 'Noto Serif TC', serif;
-	font-family: '', ;
 }
 
 div.name{
@@ -75,30 +74,6 @@ h1 {
 	font-size: 6vh;
 	margin-top: -25vh;
 	margin-left: -0.5vh;
-}
-
-h2 {
-	padding: 3.6vh;
-	color: #a50349;
-	font-family: 'Andika New Basic', sans-serif;
-	font-size: 3.6vh;
-	margin-left: -2vh;
-}
-
-h3 {
-	padding: 3.6vh;
-	color: #a50349;
-	font-family: 'Andika New Basic', sans-serif;
-	font-size: 3.6vh;
-	margin-left: -2vh;
-}
-
-h4 {
-	padding: 3.6vh;
-	color: #a50349;
-	font-family: 'Nanum Gothic', sans-serif;
-	font-size: 3.6vh;
-	margin-left: -2vh;
 }
 
 p {
