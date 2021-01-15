@@ -57,6 +57,14 @@ div.name{
 	font-family: 'Playfair Display SC', serif;
 }
 
+img.hard{
+	opacity: 1;
+	width: 90%;
+	display: block;
+	padding: 10px;
+	margin: auto;
+}
+
 article{
 	width: 100%;
 	padding: 1vh 1vh;
