@@ -44,10 +44,8 @@ nav{
 }
 
 div#container{
-	position: fixed;
-	height: 76%;
 	width: 100%;
-	top: 24%;
+	margin-top: 24%;
 	font-size: 2.4vh;
 	font-family: 'Josefin Sans', sans-serif;
 }
