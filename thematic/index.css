@@ -7,8 +7,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&family=Crimson+Text&family=Josefin+Sans&family=Nanum+Gothic&family=Noto+Serif+TC&family=Playfair+Display+SC&display=swap');
 
 html{
-	width: 100%
-	height: 100%
+	width: 100%;
+	height: 100%;
 	overflow-x: hidden;
 	overflow-y: auto;
 }
@@ -28,14 +28,14 @@ body{
 }
 
 nav > a:hover{
-	color:#ffc5aa
+	color:#ffeee6
 }
 
 nav{
-	position: absolute;
+	position: relative;
+	width: 100%;
 	height: 22%;
 	top: 0;
-	width: 100%;
 	font-family: 'Playfair Display SC', serif;
 	background-color: #1f2048;
 	font-size: 3.6vh;
@@ -44,9 +44,9 @@ nav{
 
 div#container{
 	position: absolute;
-	height: 76%;
+	height: 78%;
 	width: 100%;
-	top: 24%;
+	right: 0;
 	font-size: 2.4vh;
 	font-family: 'Josefin Sans', sans-serif;
 }
