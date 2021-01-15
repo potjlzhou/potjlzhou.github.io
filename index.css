@@ -74,22 +74,6 @@ section ~ img {
 	margin: 20px;
 }
 
-img.special {
-	width: 40%;
-	float: left;
-}
-
-p {
-	padding: 10p
-}
-
-section.s2{
-	background-color: #7979ad;
-	width: 70vw;
-	padding: 6vh;
-	color: white;
-}
-
 section {
 	padding: 10px 10px 20px 10px
 }
@@ -98,14 +82,14 @@ p > img {
 	width: 30%;
 }
 
-section.s3{
+section.home {
 	padding: 6vh;
 	background-color: #94786c;
-	width: 70vw;
+	width: 70%;
 	text-align: right;
 }
 
-h3 {
+h {
 	color: #2e3830;
 	font-family: Noto Serif TC, serif;
 	font-size: 4.8vh;
