@@ -68,7 +68,7 @@ article{
 
 img.index ~ section {
 	position: absolute;
-    top: 9%;
+    top: 18%;
     left: 24%;
 	width: 50%;
 	padding: 10px;
@@ -84,6 +84,7 @@ img {
 	padding: 0;
 	opacity: 0.9;
 }
+
 
 h1 {
 	padding: 2vh;
