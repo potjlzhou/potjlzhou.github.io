@@ -71,12 +71,13 @@ h1 {
 }
 
 section ~ img {
-	width: 88%;
-	margin: 20px;
+	width: 45%;
+	padding: 10px;
+	float: left;
 }
 
 section {
-	padding: 10px 10px 20px 10px
+	padding: 10px 18px 20px 10px;
 }
 
 p > img {
@@ -114,4 +115,8 @@ section:nth-child(2) > img.special {
 	float: right;
 	margin: -7vh 10px 1px 10px;
 	width: 20%;
+}
+
+h3 {
+	margin: 10px 0 0 0;
 }
