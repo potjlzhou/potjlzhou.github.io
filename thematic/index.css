@@ -17,6 +17,8 @@ a{
 	color: #f7f796;
 	margin: 0 20px;
 	text-decoration: none;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-weight: bold;
 }
 
 body{
@@ -31,11 +33,10 @@ nav > a:hover{
 }
 
 nav{
-	position: absolute;
-	height: 25%;
-	width: 100%;
-	padding-top: 3.6vh;
+	position: fixed;
+	height: 24%;
 	top: 0;
+	width: 100%;
 	font-family: 'Playfair Display SC', serif;
 	background-color: #1f2048;
 	font-size: 4vh;
@@ -43,9 +44,10 @@ nav{
 }
 
 div#container{
-	height: 100%;
+	position: fixed;
+	height: 76%;
 	width: 100%;
-	margin-top: 25%;
+	top: 24%;
 	font-size: 2.4vh;
 	font-family: 'Josefin Sans', sans-serif;
 }
@@ -57,8 +59,6 @@ div.name{
 }
 
 article{
-	height: 100vh;
-	width: 95%;
 	margin-left: 2.4vh;
 	padding: 1vh 1vh;
 	font-family: Lora, serif;
@@ -71,7 +71,6 @@ h1 {
 	color: #07505f;
 	font-family: 'Andika New Basic', sans-serif;
 	font-size: 6vh;
-	margin-top: -25vh;
 	margin-left: -0.5vh;
 }
 
