@@ -25,6 +25,7 @@ body{
 	height: 100%;
 	background-color: #ffffff;
 	font: 2.4vh/3.6vh;
+	text-align: justify;
 }
 
 nav > a:hover{
@@ -102,4 +103,10 @@ h1 {
 p {
 	margin-left: 2vh;
 	font-family: 'Noto Serif TC', serif;
+	margin-top: 10px;
+}
+
+img.sol {
+	width: 18%;
+	margin: 1px 10px 10px 1px;
 }
