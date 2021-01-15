@@ -50,7 +50,7 @@ nav > div{
 	padding: 15% 1vh;
 }
 
-nav > div:not(:first-child):hover{
+nav > div:hover{
 	background-color:indianred
 }
 
