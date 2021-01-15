@@ -84,12 +84,6 @@ img.index ~ section {
 	color: white;
 }
 
-img {
-	position: relative;
-	height: 20%;
-	opacity: 0;
-}
-
 img.index {
 	position: absolute;
 	left: 0;
