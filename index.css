@@ -81,24 +81,12 @@ section.s2{
 	color: white;
 }
 
-h2 {
-	padding: 3.6vh;
-	color: #2e3830;
-	font-family: Noto Serif TC, serif;
-	margin-left: -3.6vh;
-	font-size: 5vh;
+section {
+	padding: 10px 10px 20px 10px
 }
 
 p > img {
 	width: 30%;
-}
-
-h3 {
-	padding: 3.6vh;
-	color: #2e3830;
-	font-family: Noto Serif TC, serif;
-	margin-left: -3.6vh;
-	font-size: 5vh;
 }
 
 section.s3{
@@ -108,18 +96,9 @@ section.s3{
 	text-align: right;
 }
 
-h4 {
-	padding: 3.6vh;
+h3 {
 	color: #2e3830;
 	font-family: Noto Serif TC, serif;
-	margin-left: -3.6vh;
-	font-size: 5vh;
-}
-
-section.s4 {
-	padding: 6vh;
-	background-color: #7e9c7e;
-	width: 70vw;
-	color: white;
-	padding: 0 10px 0 0;
+	font-size: 4.8vh;
+	padding: 10px;
 }
