@@ -44,7 +44,7 @@ nav{
 }
 
 div#container{
-	position: fixed;
+	position: absolute;
 	height: 76%;
 	width: 100%;
 	top: 24%;
