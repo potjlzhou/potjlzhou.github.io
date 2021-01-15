@@ -39,7 +39,7 @@ nav{
 }
 
 div#container{
-	position: fixed;
+	position: absolute;
 	height: 100%;
 	width: 76%;
 	right: 0;
@@ -52,13 +52,6 @@ nav > div{
 
 nav > div:hover{
 	background-color:indianred
-}
-
-div.name{
-	position:;
-	right: 1vh;
-	font-size: 6vh;
-	font-family: 'Potta One, cursive';
 }
 
 article{
