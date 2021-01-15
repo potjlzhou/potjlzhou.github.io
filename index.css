@@ -14,66 +14,64 @@ html{
 }
 
 a{
-	color: #debfa7
-	text-decoration: none;
+	text-decoration: none; 
+	color: #debfa7;
 }
+
 
 body{
 	width: 100%;
-	height: 100%;
+	height: 76%;
+	right: 0;
 	background-color: #f6f5f3;
 	font: 2.4vh/3.6vh;
 }
 
-div#container{
-	height: 100vh;
-	width:80%;
-	margin-left: 20%;
-	padding: 5px 5px;
-	font-size: 2.4vh;
-	font-family: sans-serif;
+nav{
+	position: fixed;
+	height: 100%;
+	width: 24%;
+	left: 0;
+	background-color: gray;
+	font-family: 'Potta One', cursive;
+	font-size: 4.5vh;
+	text-align: center;
 }
 
-div{
-	padding: 1vh;
+div#container{
+	position: fixed;
+	height: 100%;
+	width: 76%;
+	right: 0;
+	font-size: 2.4vh;
+}
+
+nav > div{
+	padding: 15% 1vh;
 }
 
 nav > div:not(:first-child):hover{
 	background-color:indianred
 }
 
-nav{
-	position: fixed;
-	height: 100%;
-	width: 20%;
-	padding-top: 2.4vh;
-	left: 0;
-	background-color: gray;
-	font-family: 'Merriweather', sans-serif;
-	font-size: 4.5vh;
-	text-align: center;
-}
-
 div.name{
-	position: fixed;
+	position:;
 	right: 1vh;
 	font-size: 6vh;
-	font-family: Nerko One, cursive;
+	font-family: 'Potta One, cursive;
 }
 
 article{
-	height: 100vh;
-	width: 75%;
-	padding: 15px 15px;
-	font-family: Lora, serif;
-	font-family: 'Sansita SwashedN', cursive;
+	margin-left: 3.6vh;
+	font-family: 'Donime', serif;
+	font-family: 'Noto Serif TC', serif;
 	color: #1f7a8c;
 }
 
 h1 {
 	padding: 2.4vh;
 	color: #49494b;
-	font-family: Pemanent Marker;
+	font-family: 'Texturina', serif;
 	font-size: 7vh;
 	margin-left: -7px;
 	margin-top: -7px;
