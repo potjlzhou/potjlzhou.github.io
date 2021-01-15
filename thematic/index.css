@@ -17,7 +17,6 @@ a{
 	color: #f7f796;
 	margin: 0 20px;
 	text-decoration: none;
-	font-family: 'Nanum Gothic', sans-serif;
 	font-weight: bold;
 }
 
@@ -33,13 +32,13 @@ nav > a:hover{
 }
 
 nav{
-	position: fixed;
-	height: 24%;
+	position: absolute;
+	height: 22%;
 	top: 0;
 	width: 100%;
 	font-family: 'Playfair Display SC', serif;
 	background-color: #1f2048;
-	font-size: 4vh;
+	font-size: 3.6vh;
 	text-align: center;
 }
 
@@ -59,7 +58,7 @@ div.name{
 }
 
 article{
-	margin-left: 2.4vh;
+	width: 100%;
 	padding: 1vh 1vh;
 	font-family: Lora, serif;
 	font-family: 'Crimson Text', serif;
@@ -78,6 +77,12 @@ img.index ~ section {
 }
 
 img {
+	position: relative;
+	height: 20%;
+	opacity: 0;
+}
+
+img.index {
 	position: absolute;
 	left: 0;
 	height: 100%;
@@ -85,13 +90,11 @@ img {
 	opacity: 0.9;
 }
 
-
 h1 {
 	padding: 2vh;
 	color: #07505f;
 	font-family: 'Andika New Basic', sans-serif;
-	font-size: 6vh;
-	margin-left: -0.5vh;
+	font-size: 4.8vh;
 }
 
 p {
