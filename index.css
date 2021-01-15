@@ -59,6 +59,7 @@ article{
 	font-family: 'Donime', serif;
 	font-family: 'Noto Serif TC', serif;
 	color: #1f7a8c;
+	text-align: justify;
 }
 
 h1 {
@@ -94,4 +95,15 @@ h {
 	font-family: Noto Serif TC, serif;
 	font-size: 4.8vh;
 	padding: 10px;
+}
+
+img.special {
+	float: left;
+	display: inline-block;
+	width: 10%;
+	margin: 10px 10px 1px 10px;
+}
+
+section:nth-child(3) > img.special {
+	float: right;
 }
