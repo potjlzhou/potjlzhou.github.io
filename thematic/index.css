@@ -44,8 +44,10 @@ nav{
 }
 
 div#container{
+	position: fixed;
+	height: 76%;
 	width: 100%;
-	margin-top: 24%;
+	top: 24%;
 	font-size: 2.4vh;
 	font-family: 'Josefin Sans', sans-serif;
 }
@@ -64,16 +66,27 @@ article{
 	color: #776a5d;
 }
 
+img.index ~ section {
+	position: absolute;
+    top: 9%;
+    left: 24%;
+	width: 50%;
+	padding: 10px;
+	font-size: 2vh;
+	background-color: black;
+	color: white;
+}
+
 img {
-	position: fixed;
-	top: 24%;
+	position: absolute;
 	left: 0;
-	width: 100%;
+	height: 100%;
 	padding: 0;
+	opacity: 0.9;
 }
 
 h1 {
-	padding: 2.4vh;
+	padding: 2vh;
 	color: #07505f;
 	font-family: 'Andika New Basic', sans-serif;
 	font-size: 6vh;
