@@ -62,12 +62,11 @@ article{
 }
 
 h1 {
-	padding: 2.4vh;
+	padding: 2vh;
 	color: #49494b;
 	font-family: 'Texturina', serif;
-	font-size: 7vh;
+	font-size: 6vh;
 	margin-left: -7px;
-	margin-top: -7px;
 }
 
 section.s2{
@@ -85,6 +84,10 @@ h2 {
 	font-size: 5vh;
 }
 
+p > img {
+	width: 30%;
+}
+
 h3 {
 	padding: 3.6vh;
 	color: #2e3830;
@@ -98,7 +101,6 @@ section.s3{
 	background-color: #94786c;
 	width: 70vw;
 	text-align: right;
-	color: white;
 }
 
 h4 {
@@ -114,4 +116,5 @@ section.s4 {
 	background-color: #7e9c7e;
 	width: 70vw;
 	color: white;
+	padding: 0 10px 0 0;
 }
