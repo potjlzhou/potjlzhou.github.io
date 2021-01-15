@@ -60,10 +60,9 @@ div.name{
 
 img.hard{
 	opacity: 1;
-	width: 90%;
-	display: block;
+	width: 45%;
 	padding: 10px;
-	margin: auto;
+	margin-left: 30px;
 }
 
 article{
